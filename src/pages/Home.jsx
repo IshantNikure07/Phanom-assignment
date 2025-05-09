@@ -1,6 +1,5 @@
 import React from 'react'
 import back from "../assets/back.png"
-import logo from "../assets/logo.png"
 import client1 from "../assets/Logo Client 1.png"
 import client2 from "../assets/Logo Client 2.png"
 import client3 from "../assets/Logo Client 3.png"
