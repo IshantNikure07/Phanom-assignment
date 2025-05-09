@@ -36,7 +36,7 @@ const Home = () => {
         </div>
 
         {/*  */}
-        <div className='flex justify-center items-center mt-38'>
+<div className='absolute bottom-[20%] left-1/2 transform -translate-x-1/2 mt-38'>
           <div className='flex gap-7 text-white'>
             <div className='pr-7'>
               <h1 className='text-6xl font-bold'>24/7</h1>
