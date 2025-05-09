@@ -3,10 +3,11 @@ import { FaChevronDown } from "react-icons/fa6";
 import logo from "../assets/logo.png"
 
 const Navbar = () => {
+  
   return (
-    <div className='flex justify-between py-10 px-20'>
+    <div className='flex justify-between py-8 px-20 text-[16px]'>
               <img src={logo} alt="" />
-              <div className='text-white flex gap-16 items-center  mx-3 text-lg'>
+              <div className='text-white flex gap-16 items-center  mx-3 text-[16px]'>
                 <h1 className='flex items-center gap-2  '>Service <FaChevronDown /></h1>
                 <h1 className='flex items-center gap-2  '>Hire Indian Talent <FaChevronDown /></h1>
                 <h1>Our Portfolio</h1>
