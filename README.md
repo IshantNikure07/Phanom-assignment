@@ -1,6 +1,6 @@
 # 🚀 Phanom Assignment
 
-Welcome to the **Phanom-assignment** repo! This repository contains the solution to the assignment provided by **Phanom**.
+Welcome to the **Phanom-assignment** repo! This repository contains a Landing page assignment 
 
 ## 🛠 Tech Stack
 
