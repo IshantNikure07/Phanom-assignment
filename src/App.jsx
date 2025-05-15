@@ -4,13 +4,18 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
+import LandingPage from './pages/LandingPage'
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
+
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <Routes>
-         <Route path='/' element={<Home/>} />
+         <Route path='/' element={<LandingPage/>} />
+         <Route path='/Home' element={<Home/>} />
     </Routes>
   )
 }
